@@ -4,7 +4,7 @@
 
 ### ui.R file
 ### server.R file
-### Interactive Plot
+### Interactive Plot/Shiny App
 ### Shiny Presentation
 
 ### You can find the shiny app here: https://michaelsego01.shinyapps.io/Week4Assignment/
